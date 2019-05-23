@@ -1,5 +1,5 @@
 {
-  "name": "ffmpeg-to-mp4",
+  "name": "@bbc/digital-paper-edit-video-preview-converter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

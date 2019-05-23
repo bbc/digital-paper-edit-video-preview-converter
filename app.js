@@ -20,6 +20,6 @@ app.use((err, req, res, next) => {
     });
 });
 
-require('./routes/convert-to-mp4')(app);
+require('./routes/convert-to-video')(app);
 
 module.exports = app;

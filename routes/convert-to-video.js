@@ -1,5 +1,5 @@
 const path = require('path');
-const convertVideo = require('../convert-to-mp4');
+const convertVideo = require('../convert-to-video-preview');
 module.exports = (app) => {
   app.post('/convert-to-mp4', (req, res) => {
     const url = req.query.mediaUrl;
